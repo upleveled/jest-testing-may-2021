@@ -1,0 +1,12 @@
+{
+  "name": "jest-testing-may-2021",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:upleveled/jest-testing-may-2021.git",
+  "author": "Karl Horky <karl.horky@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
